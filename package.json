@@ -1,0 +1,23 @@
+{
+  "name": "es-scripts",
+  "version": "1.0.0",
+  "description": "Elasticsearch helper scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miraries/es-scripts.git"
+  },
+  "author": "Ivan Kotlaja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miraries/es-scripts/issues"
+  },
+  "homepage": "https://github.com/miraries/es-scripts#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^6.8.8",
+    "lodash": "^4.17.20"
+  }
+}
